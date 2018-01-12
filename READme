@@ -1,0 +1,3 @@
+Oyun çalıştırıldığında ilk olarak kullanıcıdan board'ın sizenı isteyen pencere açılacak. Size 4'den büyük olmalı. 
+Yanlıþ girildiğinde tekrar input istiyor kullanıcıdan. Ardından player vs player veyahut player vs computer bilgisi isteniyor. Bunun için de P veya C (computer) inputları girilmeli. Ardından board penceresi açılıp oyun baþlıyor.
+Oyuncuların hamle yapabilmeleri için board yukarısında bulunan butonlara basmaları gerekmekte. Oyunda çapraz check, yatay check ve dikey check yapılmaktadır. Ayrıca berabere durumu da check edilmiştir.
